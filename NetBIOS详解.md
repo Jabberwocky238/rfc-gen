@@ -1,3 +1,36 @@
+---
+description: 详细介绍NetBIOS（网络基本输入输出系统）的技术原理、历史发展、核心架构、技术实现、实际应用、技术优势和局限，以及现代替代方案。涵盖NetBIOS over TCP/IP、配置管理、故障排除等实用内容。
+keywords:
+  - NetBIOS
+  - 网络协议
+  - 局域网
+  - TCP/IP
+  - 网络通信
+  - 名称服务
+  - 会话服务
+  - 数据报服务
+  - Windows网络
+  - SMB协议
+  - CIFS
+  - 网络发现
+  - 文件共享
+  - 网络管理
+  - 协议栈
+  - 网络技术
+  - 系统集成
+  - 网络配置
+  - 故障排除
+  - 技术历史
+properties:
+  category: 网络技术
+  difficulty: 中级
+  read_time: 15分钟
+  author: 技术文档
+  version: 1.0
+  last_updated: 2024
+  tags: [网络协议, 技术文档, 系统管理]
+---
+
 # NetBIOS详解：网络基本输入输出系统
 
 ## 什么是NetBIOS？
