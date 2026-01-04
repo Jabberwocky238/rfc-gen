@@ -359,3 +359,21 @@ VPN技术作为网络安全领域的重要技术，为企业和个人提供了�
 随着网络技术的不断发展和安全威胁的不断演变，VPN技术也在持续改进和完善。从早期的PPTP协议到现代的IPSec和SSL VPN，从简单的点对点连接到复杂的多层VPN架构，VPN技术已经发展成为网络安全基础设施的重要组成部分。
 
 未来，随着零信任网络架构、软件定义网络和人工智能等新技术的发展，VPN技术将朝着更加智能化、自动化和安全化的方向发展，为构建安全可靠的网络环境提供更强有力的技术支撑。
+
+  RSA在RFC中的定义
+
+  主要的RSA相关RFC：
+
+  1. RFC 2313 (1998年3月) - PKCS #1: RSA Encryption Version 1.5
+  2. RFC 2437 (1998年10月) - PKCS #1: RSA Cryptography Specifications Version 2.0
+  3. RFC 3447 (2003年2月) - PKCS #1: RSA Cryptography Specifications Version 2.1
+  4. RFC 8017 (2016年11月) - PKCS #1: RSA Cryptography Specifications Version 2.2（当前版本）
+
+  RSA的历史
+
+  - 1977年：Ron Rivest、Adi Shamir和Leonard Adleman在MIT发明了RSA算法
+  - 1983年：RSA算法获得美国专利（专利号4,405,829）
+  - 1997年：RSA算法首次在RFC中正式标准化（RFC 2313）
+  - 2000年：RSA专利到期，算法进入公共领域
+
+  所以虽然RSA算法本身诞生于1977年，但在RFC系列中的正式定义是从1998年的RFC 2313开始的。
